@@ -44,10 +44,11 @@ function App() {
    */
   const handleAtend = () =>{
     if(pacientes[0]){
+      console.log(pacientes[0])
       setPacienteAtendendo(pacientes[0])
       setIsTrue(true);
-      pacientes.shift()
       setPacientes(pacientes)
+      pacientes.shift()
     }else if(!pacientes[0]){
       setIsTrue(false);
     }
