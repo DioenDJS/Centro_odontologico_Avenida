@@ -65,7 +65,7 @@ function App() {
           />
         </div>
         <div className="col-sm-8">
-          <h3>Crento Odontológico Avenida</h3>
+          <h3>Centro Odontológico Avenida</h3>
           <form onSubmit={handleAdd}>
             <div className="form-group">
               <label htmlFor="nome">Nome do Paciente:</label>
