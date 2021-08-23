@@ -6,6 +6,8 @@
 
 <img src="listandopaciente.png" alt="imagem do projeto" height="500" width="750" >
 
+- [deploy na Vercel](https://centro-odontologico-avenida.vercel.app/)
+
 
 ## Tecnologias Utilizadas no projeto :construction:
 
@@ -23,7 +25,7 @@ Este projeto e uma pagina que lista uma ordem de pacientes de uma clinica ha ser
 
 ## Como executar :gear:
 
-- Clone o repositório `https://github.com/DioenDJS/Projeto-Letmeask.git`.
+- Clone o repositório `https://github.com/DioenDJS/Centro_odontologico_Avenida.git`.
 - Install as dependências com o comando `npm install`.
 - Rode o `npm start` para iniciar a aplicação.<br />
 Ao final a aplicação estará disponível em `http://localhost:3000`.
