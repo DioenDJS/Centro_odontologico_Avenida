@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=Faculdade Senac Pelotas&message=3º&color=fdca40&labelColor=000000" alt="Faculdade Senac Pelotas">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Centro_odontologico_Avenida" >
 </p>
 
 <img src="listandopaciente.png" alt="imagem do projeto" height="500" width="750" >
